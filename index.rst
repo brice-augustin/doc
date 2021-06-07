@@ -8,7 +8,7 @@ Welcome to doc's documentation!
 
 this is the best news of the week.
 
-.. image:: images/Cherioux.png
+.. image:: images/Cherioux.jpg
   :width: 400
   :alt: cherioux
 
