@@ -6,7 +6,7 @@
 Welcome to doc's documentation!
 ===============================
 
-this is the best news of the week.
+this is the best news of the week. Ever
 
 .. image:: images/Cherioux.jpg
   :width: 400
