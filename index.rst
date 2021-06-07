@@ -6,6 +6,8 @@
 Welcome to doc's documentation!
 ===============================
 
+this is the best news of the week.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
