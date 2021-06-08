@@ -16,7 +16,8 @@ this is the best news of the week. Ever
    :maxdepth: 2
    :caption: Contents:
 
-
+   divers.rst
+   virtualbox.rst
 
 Indices and tables
 ==================
