@@ -56,3 +56,34 @@ Créer une VM
 
 Cliquer sur ``Nouvelle`` et suivre l'assistant de création. 
 Si nécessaire, modifier les valeurs proposées (quantité de RAM, taille du disque, etc.), sinon laisser les valeurs par défaut. 
+
+Insérer une image ISO dans le lecteur de CD (virtuel) d'une VM
+--------------------------------------------------------------
+
+Dans les caractéristiques de la VM, sélectionner ``Stockage`` > ``Contrôleur IDE``. 
+Cliquer sur l'icône représentant un CD, puis sur ``Choisissez un fichier de disque optique virtuel`. 
+Dans la fenêtre qui s'affiche, indiquer le fichier ISO. 
+
+
+.. _fig-vbox-iso:
+
+.. figure:: images/vbox-iso.png
+
+	Choix d'un CD d'installation
+
+Host Key
+--------
+
+La ``Host key`` est toujours indiquée en bas à droite de la fenêtre de l'hyperviseur. Pour ``VirtualBox``, il s’agit de la touche ``Ctrl`` située à droite du clavier.
+
+.. _fig-vbox-hostkey:
+
+.. figure:: images/vbox-hostkey.png
+
+	Host key utilisée dans VirtualBox
+
+Configurer la carte réseau d'une VM en mode ``Accès par pont``
+--------------------------------------------------------------
+
+Sélectionner la VM dans la fenêtre principale et cliquer sur ``Configuration`` pour afficher ses propriétés.
+Dans la fenêtre des paramètres, sélectionner ``Réseau`` >``Carte 1`` > ``Accès par pont`` et valider. 
