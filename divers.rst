@@ -41,7 +41,11 @@ Serveur DNS de l'IUT
 
 XXX
 
+..
+	Supprimer
+
 .. _my-reference-label:
+
 
 Section to cross-reference
 --------------------------
@@ -61,10 +65,7 @@ Ce système permet de restaurer un des OS de la machine avec les *paramètres pa
 Pour restaurer un OS particulier, démarrer (ou redémarrer) le PC puis :
 
 #. Au démarrage, lorsque l’écran bleu (``Multiboot Grub``) apparait, sélectionner ``Restauration``
-#. Le système de restauration démarre en quelques secondes et affiche un menu (voir :ref:`fig-rh` :numref:`fig-rh`)
-
-	La présence d'un *point d'exclamation en rouge* à côté d'un OS indique que ce dernier *n'a pas été restauré*, donc que quelqu'un l'a utilisé avant vous. 
-	Si l'OS que vous voulez utiliser n'est pas accompagné d'un point d'exclamation, vous n'avez pas besoin de le restaurer. Rebootez l'ordinateur avec Ctrl+Alt+Suppr et commencez à travailler immédiatement !
+#. | Le système de restauration démarre en quelques secondes et affiche un menu (voir :ref:`fig-rh` :numref:`fig-rh`). La présence d'un *point d'exclamation en rouge* à côté d'un OS indique que ce dernier *n'a pas été restauré*, donc que quelqu'un l'a utilisé avant vous. Si l'OS que vous voulez utiliser n'est pas accompagné d'un point d'exclamation, vous n'avez pas besoin de le restaurer. Rebootez l'ordinateur avec `Ctrl+Alt+Suppr` et commencez à travailler immédiatement !
 
 #. Pour restaurer un OS, entrer le numéro correspondant cet OS puis valider avec ``Entrée``
 #. La restauration commence. Elle ne prend que quelques minutes et l’ordinateur s’éteindra tout seul à la fin. 
