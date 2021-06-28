@@ -18,6 +18,17 @@ this is the best news of the week. Ever
 
    divers.rst
    virtualbox.rst
+   linux.rst
+   bash.rst
+   windows.rst
+   windows-server.rst
+   gpo.rst
+   powershell.rst
+   wireshark.rst
+   ios.rst
+   alcatel4018.rst
+   packet-tracer.rst
+   gns3.rst
 
 Indices and tables
 ==================
