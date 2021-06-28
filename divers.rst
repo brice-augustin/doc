@@ -39,20 +39,7 @@ Identifiants : ``etudiant`` / ``vitrygtr``
 Serveur DNS de l'IUT
 --------------------
 
-XXX
-
-..
-	Supprimer
-
-.. _my-reference-label:
-
-
-Section to cross-reference
---------------------------
-
-This is the text of the section.
-
-It refers to the section itself, see :ref:`my-reference-label`.
+Le serveur DNS est hébergé sur la passerelle par défaut des salles de TP. 
 
 Lancer la restauration d'un OS
 ------------------------------
