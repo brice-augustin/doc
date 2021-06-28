@@ -3,14 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to doc's documentation!
-===============================
+Mémos Réseaux S1 et S2
+======================
 
-this is the best news of the week. Ever
-
-.. image:: images/Cherioux.jpg
-  :width: 400
-  :alt: cherioux
+Vous trouverez ici la totalité des Mémos Réseaux pour les semestres 1 et 2. 
 
 .. toctree::
    :maxdepth: 2
