@@ -640,7 +640,7 @@ Entrer le mot de passe de cet utilisateur et valider.
 
 .. warning:: Le compte ``otabenga`` doit obligatoirement exister sur le PC distant.
 
-Si le message suivant apparait, répondre ``yes`` (vous comprendrez sa signification au second semestre) :
+Si le message suivant apparait, répondre ``yes`` (vous comprendrez sa signification plus tard) :
 
 .. code-block::
 

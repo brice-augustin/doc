@@ -199,7 +199,7 @@ La première partie (:numref:`fig-show-ip-route-legende`) liste toutes les origi
 
 	Première partie de la table de routage (légende)
 
-La seconde partie (:numref:) liste toutes les entrées de la table de routage (appelées *routes*, une par ligne). Chaque entrée comporte trois indications : le code, le *subnet* (ou préfixe) et la façon d'atteindre ce *subnet* (*Remise Directe* ou *Routage via*) :
+La seconde partie (:numref:`fig-show-ip-route`) liste toutes les entrées de la table de routage (appelées *routes*, une par ligne). Chaque entrée comporte trois indications : le code, le *subnet* (ou préfixe) et la façon d'atteindre ce *subnet* (*Remise Directe* ou *Routage via*) :
 
 .. _fig-show-ip-route:
 
