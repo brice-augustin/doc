@@ -1,4 +1,6 @@
-.. sectnum::
+..
+	ça marche
+	.. sectnum::
 
 Linux
 =====
