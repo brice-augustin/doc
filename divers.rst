@@ -27,6 +27,13 @@ Le répertoire ``E:\ova`` contient plusieurs VM préinstallées. Sous Linux, ce 
    ``Windows_Server_2016.ova``, "Installation de base de la version la plus récente de Windows Server."
    "...", "D'autres VM qui vous serviront plus tard !"
 
+.. _fig-vm:
+
+.. figure:: images/explorer-ova.png
+   :width: 400
+
+   VM préinstallées disponibles dans E:\ova
+
 Serveur FTP de l'IUT
 --------------------
 
