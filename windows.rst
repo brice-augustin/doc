@@ -448,7 +448,7 @@ Dans le :ref:`Centre réseau et partage<centre-reseau>`, le profil réseau est a
 Autoriser le partage de fichiers
 --------------------------------
 
-Il faut d'abord :ref:`changer le profil réseau<changer-profil>` en ``Réseau privé``. *Même si cela est possible, il est déconseillé d'activer le partage de fichiers pour le profil ``Réseau public``, pour des raisons de sécurité.*
+Il faut d'abord :ref:`changer le profil réseau<changer-profil>` en ``Réseau privé``. Même si cela est possible, *il est déconseillé* d'activer le partage de fichiers pour le profil ``Réseau public``, pour des raisons de sécurité.
 
 Dans le :ref:`Centre Réseau et partage<centre-reseau>`, cliquer sur ``Modifier les paramètres de partage avancés``. 
 
