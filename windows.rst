@@ -548,7 +548,7 @@ Les ordinateurs voisins doivent apparaitre :
 .. _fig-voisinnage:
 
 .. figure:: images/voisinnage.png
-	:width: 300
+	:width: 200
 
 	Voisinnage réseau
 
@@ -557,7 +557,7 @@ Si rien ne s’affiche, cliquer sur le bandeau qui est apparu sous le menu princ
 .. _fig-activer-decouverte:
 
 .. figure:: images/activer-decouverte.png
-	:width: 300
+	:width: 500
 
 	Notification d’activation de la Découverte du réseau
 
