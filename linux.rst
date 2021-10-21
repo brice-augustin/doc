@@ -715,7 +715,7 @@ En GUI, il suffit de taper l'URL suivante avec n'importe quel navigateur Web :
 
 .. _fig-requete-web:
 
-.. figure:: images/requete-web.png
+.. figure:: images/requete-Web.png
 
 	Page Web affichée par un navigateur
 
